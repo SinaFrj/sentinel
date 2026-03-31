@@ -6,7 +6,7 @@
 
 > **4th place out of 30 teams** — Reply Student Clash 2025 Hackathon
 
-A real-time ICU monitoring system that uses multiple AI agents to process concurrent patient vital streams, detect clinical deterioration patterns, and trigger sub-200ms alerts. Built in 24 hours during a hackathon, demonstrating rapid prototyping of safety-critical systems.
+A real-time ICU monitoring system that uses multiple AI agents to process concurrent patient vital streams, detect clinical deterioration patterns, and trigger sub-200ms alerts. Built in 4 hours during a hackathon, demonstrating rapid prototyping of safety-critical systems.
 
 ![Dashboard Preview](docs/dashboard_preview.png)
 
